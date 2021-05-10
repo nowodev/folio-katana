@@ -23,7 +23,7 @@ return [
      *
      */
 
-    'siteName' => 'Katana',
+    'siteName' => 'NowoCodes',
 
-    'siteDescription' => 'Yet another awesome site.',
+    'siteDescription' => 'Portfolio with Katana & TailwindCSS.',
 ];
